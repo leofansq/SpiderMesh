@@ -4,7 +4,7 @@
 
 > For technical details, please refer to:
 >
-> [xxx](xxx)
+> [SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation](https://arxiv.org/abs/2303.08692)
 
 ### (0) Abstract
 
@@ -27,6 +27,20 @@ For semantic segmentation in urban scene understanding, RGB cameras alone often 
 * Complexity
 
 ![complexity](./img/complexity.png)
+
+
+
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```
+@article{spidermesh,
+  title={{SpiderMesh}: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation},
+  author={S. Fan and Z. Wang and Y. Wang and J. Liu},
+  journal={arXiv:2303.08692},
+  year={2023}}
+```
 
 
 
