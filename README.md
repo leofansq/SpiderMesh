@@ -35,8 +35,7 @@ This code has been tested with Python 3.8.10, Pytorch 1.11.0, CUDA 11.7.
 
     | Dataset     | Note                                  | Link                                                            |
     |-------------|---------------------------------------|-----------------------------------------------------------------|
-    | MFNet       | preprocessed by RTFNet                |[Download](http://nas.ram-lab.com:5000/sharing/CfukComo1)        |
-    |             | split files for semi-supervised task  | TBD                                                             |
+    | MFNet       | preprocessed by RTFNet                |[Download](https://pan.baidu.com/s/1mCIAv2qU5TwIfgDFtAR08g):5ah9 |
     | PST900      | original dataset                      |[Download](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)|
 
 * Download pretrained models
